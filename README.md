@@ -42,3 +42,6 @@
 <br></div>
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFB0&height=120&section=footer"/>
+  
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/EmersonLucas/EmersonLucas/output/github-contribution-grid-snake.svg)
+
