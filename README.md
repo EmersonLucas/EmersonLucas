@@ -8,6 +8,7 @@
 </div>
 
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=EmersonLucas&theme=monokai)
+![Snake animation](https://github.com/EmersonLucas/EmersonLucas/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=EmersonLucas&theme=monokai&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
@@ -43,6 +44,5 @@
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFB0&height=120&section=footer"/>
   
-![snake gif](https://github.com/EmersonLucas/EmersonLucas/blob/output/github-contribution-grid-snake.svg)
 
 
